@@ -1,0 +1,59 @@
+<p>
+<img src="https://raw.githubusercontent.com/apiintegrations/ProductTradeIn.Assets/master/codecanyon/ASSET-1-trade-in-page.jpg" alt="API Integrations Support" />
+</p>
+
+<p>
+<a href="mailto:support@apiintegrations.com" rel="nofollow"><img height="200" width="600" src="https://raw.githubusercontent.com/apiintegrations/ProductTradeIn.Assets/master/codecanyon/contact-support.png" alt="API Integrations Support" />
+</a>
+<a href="http://apiintegrations.com/documentation/" rel="nofollow">
+<img height="200" width="600" src="https://raw.githubusercontent.com/apiintegrations/ProductTradeIn.Assets/master/codecanyon/code-canyon-support.png" alt="API Integrations Documentation" />
+</a>
+</p>
+
+<p>
+<img src="https://raw.githubusercontent.com/apiintegrations/ProductTradeIn.Assets/master/codecanyon/steps-asset.jpg" alt="API Integrations Support" />
+</p>
+
+<h2 id="item-description__overview">Overview</h2>
+<p><strong>WooCommerce Product Trade-In Plugin allows you to buy back items from your customers. This similar feature can be seen at uSell.com and gazelle.com. Easily allow users to trade-in their items by automatically creating shipping labels for them once they submit their data.</strong></p>
+
+<h2 id="item-description__features">Features</h2>
+
+<ul>
+<li>Create products just as you would regularly.</li>
+<li>Give pricing based on your set conditions.</li>
+<li>Simple checkout form for users with ability to choose payment method.</li>
+<li>Automatic creation of shipping labels.</li>
+<li>Track and manage shipping labels.</li>
+<li>Pay users once you receive their item</li>
+</ul>
+
+<h2 id="item-description__changelog">Changelog</h2>
+
+<pre>
+1 July 2016
+------------------------------------------------------------------------------------
+[+] Initial release
+
+9 August 2016
+------------------------------------------------------------------------------------
+[+] Fixed Bug with Sell Now button
+[+] Added confirmation email with label for customer
+[+] Added new order email notice for Admin
+
+14 April 2017 
+------------------------------------------------------------------------------------
+[+] Sell now button placement under variations
+[+] Label not showing Woo 3.0 update fix
+[+] Attribute Wording Woo 3.0 update fix
+[+] Added payment methods (bank, charity)
+[+] Ability to turn off label printing
+
+19 April 2019
+------------------------------------------------------------------------------------
+[+] Sell Multiple Items Option
+[+] Easypost client update
+</pre>
+
+<h2 id="item-description__requirements">Requirements</h2>
+<p>This WooCommerce extension requires WordPress 3.6 or later and WooCommerce 2.1 or later and an easypost.com account.</p>
